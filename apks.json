@@ -1,70 +1,27 @@
 
 [
   {
-    "id": "story tv",
-    "name": "story tv",
+    "name": "StoryTV",
     "package_name": "story.tv.drama.reels",
     "version": "1.0.0",
-    "category": "Tools",
-    "type": "APK",
-    "description": "Smart scientific and standard calculator tool.",
-    "detailed_description": "Calculator Plus provides advanced scientific math, currency exchange calculation, and calculation history log.",
-    "icon_url": "https://raw.githubusercontent.com/chand30658-pixel/apk/main/icons/calc_icon.png",
-    "apk_url": "https://github.com/chand30658-pixel/apk/releases/download/Realease/STORY_TV__Premium_.apk",
-    "size_bytes": 12582912,
-    "rating": 4.9,
-    "downloads": "50K+",
-    "features": [
-      "Scientific & basic operations",
-      "Offline calculation support",
-      "History tape"
-    ],
-    "permissions": [
-      "INTERNET"
-    ]
+    "description": "Ek minute ka break? Story TV Dekh!",
+    "icon_url": "https://th.bing.com/th/id/OIP.377J0ugZWaO9W5fXv5A7pAHaHa?r=0&o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "apk_url": "https://github.com/chand30658-pixel/apk/releases/download/Realease/STORY_TV__Premium_.apk"
   },
   {
-    "id": "app_my_game",
-    "name": "Super Runner 3D",
-    "package_name": "com.chand.superrunner",
-    "version": "2.1.0",
-    "category": "Games",
-    "type": "APK",
-    "description": "Action endless runner game with neon graphics.",
-    "detailed_description": "Super Runner 3D is a fast-paced infinite runner game. Dodge obstacles, collect power-ups, and beat your high scores.",
-    "icon_url": "https://raw.githubusercontent.com/chand30658-pixel/apk/main/icons/game_icon.png",
-    "apk_url": "https://raw.githubusercontent.com/chand30658-pixel/apk/main/apks/game.apk",
-    "size_bytes": 26214400,
-    "rating": 4.8,
-    "downloads": "100K+",
-    "features": [
-      "Smooth 60 FPS gameplay",
-      "Multiple unlockable characters",
-      "Offline play"
-    ],
-    "permissions": [
-      "INTERNET",
-      "VIBRATE"
-    ]
+    "name": "MovieBox",
+    "package_name": "story.tv.drama.reels",
+    "version": "1.0.0",
+    "description": "Enjoy movies, TV shows, and entertainment in one simple Android app. Download the MovieBox APK and get started with a clean and easy-to-use experience.",
+    "icon_url": "https://mymoviebox.co.in/wp-content/uploads/2026/09/MovieBox-logo-1.webp",
+    "apk_url": "https://github.com/chand30658-pixel/apk/releases/download/Realease/MovieBox_v4.0.03.1016.03_MOD_modplays.com.apk"
   },
-  {
-    "id": "app_instant_notes",
-    "name": "Fast Notes Web",
-    "package_name": "com.chand.fastnotes",
-    "version": "1.2.0",
-    "category": "Productivity",
-    "type": "WEB",
-    "description": "Runs directly inside OmniHub without installation!",
-    "detailed_description": "Sandboxed web app that opens instantly inside OmniHub container with full storage support.",
-    "icon_url": "https://raw.githubusercontent.com/chand30658-pixel/apk/main/icons/notes_icon.png",
-    "apk_url": "https://m.wikipedia.org",
-    "size_bytes": 524288,
-    "rating": 4.7,
-    "downloads": "25K+",
-    "features": [
-      "Zero installation required",
-      "Embedded container runtime"
-    ],
-    "permissions": []
-  }
+    {
+    "name": "NetShorts",
+    "package_name": "story.tv.drama.reels",
+    "version": "1.0.0",
+    "description": "NetShort – Watch Short Dramas in Minutes",
+    "icon_url": "https://play-lh.googleusercontent.com/cXwPPrYo1bnRtV3uVONqyxXWU1JOuJGRoNA4EAccTK72KxyHSyWsNJ6u_XiUhtQFkhY",
+    "apk_url": "https://github.com/chand30658-pixel/apk/releases/download/Realease/NetShort.v2.1.6.Premium.apk"
+  },
 ]
